@@ -1,2 +1,3 @@
 # standard_assignment
-standard assignment dc_motor, rc_servo, distance sensor
+標準課題 ロボット側プログラム
+
