@@ -6,4 +6,8 @@
 
 ハードウェアの機能を使って生成したPWM波形を74HC00(NAND)ゲートを用いて、モータドライバのIN1，IN2に直接入力<br>
 Vrefピンにつながる可変抵抗で2.5[V] - 5[V]の範囲で調整可能(MAX 4[V]までで調整)<br>
-モータドライバ データシート https://toshiba.semicon-storage.com/info/TB67H450FNG_datasheet_ja_20201126.pdf?did=65345&prodName=TB67H450FNG
+モータドライバ データシート https://toshiba.semicon-storage.com/info/TB67H450FNG_datasheet_ja_20201126.pdf?did=65345&prodName=TB67H450FNG<br>
+
+ごめんなさい<br>
+作りかけです<br>
+サーボモータのプログラムも作り直しました
